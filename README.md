@@ -1,6 +1,85 @@
-# 💫 About Me:
-I'm currently a CS student.<br>I'm looking to collaborate into some real world project that might help me learn new things in this domain.<br>I'm looking for someone to help me with my cybersecurity domain.<br>I'm currently studying Data Analytics.
+# 👋 Hey there, I'm Assaulter X
 
+🎓 Computer Science Student  
+🔐 Aspiring Cybersecurity Specialist | Future Pentester  
+🤖 AI Enthusiast | Builder | Hackathon Participant  
+
+---
+
+## 🧠 About Me
+
+- 🎯 Currently focused on mastering **Cybersecurity**, with a strong interest in **Penetration Testing**
+- 🧪 Exploring real-world attack vectors, vulnerabilities, and ethical hacking techniques
+- ⚙️ Actively integrating **AI tools into my workflow** to improve productivity and problem-solving
+- 🧩 Understanding how AI works from the ground up:
+  - Prompt Engineering 🧾  
+  - LLMs & Model Architectures 🧠  
+  - Local AI Deployment 💻  
+- 🛠️ Experimenting with **local AI models** and tools like Claude Code in my projects
+- 🚀 Passionate about building, breaking, and securing systems
+
+---
+
+## 🧰 Tech & Skills
+
+- 💻 Languages: Python, C++, JavaScript (learning & improving)
+- 🔐 Cybersecurity:
+  - Basics of Networking & Security  
+  - Vulnerability Analysis  
+  - Pentesting Concepts (learning phase)
+- 🤖 AI & Tools:
+  - Prompt Engineering  
+  - Working with LLMs  
+  - Local AI setups & experimentation  
+- ⚡ Tools & Platforms:
+  - Kali Linux 🐉  
+  - Git & GitHub  
+  - AI-powered development workflows  
+
+---
+
+## 🏆 Projects & Work
+
+- 🔬 **OpenEnv Project**
+  - Built as part of a hackathon selection round  
+  - Focused on environment setup & workflow efficiency  
+  - Represents my approach to solving real-world problems with practical tools  
+
+---
+
+## 🎯 Current Goals
+
+- 🔐 Become highly skilled in **Penetration Testing**
+- 🧠 Deep dive into **Advanced Cybersecurity Concepts**
+- 🤖 Build projects combining **AI + Security**
+- 🏁 Participate and perform in **Hackathons & Competitions**
+- ⚡ Create tools that are both **innovative and practical**
+
+---
+
+## 📈 What I'm Working On
+
+- 🧪 Learning exploitation techniques & real-world scenarios  
+- ⚙️ Building AI-assisted workflows  
+- 🧠 Understanding system internals & security loopholes  
+- 🚀 Continuously improving through hands-on practice  
+
+---
+
+## 🌱 Mindset
+
+> "Learn. Build. Break. Secure. Repeat."
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Always open to collaboration, learning, and new ideas
+- 🤝 If you're into cybersecurity, AI, or building cool stuff — let's connect!
+
+---
+
+⭐ *This is just the beginning. More projects, deeper skills, and bigger goals ahead.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushpravinjamdhade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assaulter-x-9502b82aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AssaulterX001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.piyushjamdhade@gmail.com) 
