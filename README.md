@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Assaulter X
+# 👋 Hey there, I'm Jamdhade Piyush Pravin
 
 🎓 Computer Science Student  
 🔐 Aspiring Cybersecurity Specialist | Future Pentester  
