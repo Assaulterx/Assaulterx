@@ -32,7 +32,8 @@
   - Working with LLMs  
   - Local AI setups & experimentation  
 - ⚡ Tools & Platforms:
-  - Kali Linux 🐉  
+  - Kali Linux 🐉
+  - Arch Linux  
   - Git & GitHub  
   - AI-powered development workflows  
 
