@@ -1,51 +1,53 @@
 # 👋 Hey there, I'm Jamdhade Piyush Pravin
 
 🎓 Computer Science Student  
+🛡️ Security Operations Center (SOC) Analyst | Blue Team & Threat Hunting  
 🔐 Penetration Tester & Offensive Security Researcher  
-🤖 SecOps Automation Analyst | Local AI Integration Specialist  
+🤖 Vibe Coding & Prompt Engineering Specialist | SecOps AI Automation  
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 **Offensive Security Focus:** Actively mastering advanced penetration testing methodologies, vulnerability research, and exploit development.
-- 🌐 **Infrastructure & Routing:** Deeply familiar with enterprise network architectures, subnetting, and secure routing/switching protocols.
-- 🤖 **AI-Driven Security:** Engineering localized, high-privacy AI environments to automate security workflows, log parsing, and prompt-driven threat intelligence.
-- 🛠️ **Environment Preferences:** Operating primarily out of customized **Arch Linux** environments for development and deploying **Kali Linux** setups for security assessments.
-- 🚀 Passionate about the intersections of complex network infrastructure, local machine learning, and offensive security testing.
+- 🛡️ **SOC & Defensive Operations:** Certified in Security Operations Center workflows, SIEM alert triage, log correlation, and incident detection pipelines.
+- 🎯 **Offensive Security Focus:** Actively mastering advanced penetration testing methodologies, vulnerability research, footprinting, and attack vectors.
+- 🤖 **Prompt-Driven Engineering ("Vibe Coding"):** Utilizing prompt engineering, Claude Code, and local LLMs as an execution engine to rapidly synthesize security tools, automate workflows, and prototype resilient architectures.
+- 🌐 **Infrastructure & Routing:** Deep understanding of enterprise network architectures, subnetting, VLAN segmentation, and secure routing/switching fundamentals.
+- 🛠️ **Environment Preferences:** Operating primarily out of customized **Arch Linux** environments for daily operations and deploying **Kali Linux** for penetration testing and auditing.
 
 ---
 
 ## 🗺️ Certification & Training Pipeline
 
-### ⚡ Completed Training
-- **CCNA (Cisco Certified Network Associate):** Advanced routing, switching fundamentals, IP services, and network security architectures.
+### ⚡ Completed Certifications & Training
+- **Security Operations Center (SOC) Analyst:** SIEM log analysis, threat intelligence mapping, incident response handling, and defensive framework auditing.
+- **CCNA (Cisco Certified Network Associate):** Enterprise routing protocols, switching, IP services (DHCP/NAT), and network infrastructure security.
 
 ### 📈 Active Pursuits & Roadmap
-- **CEH (Certified Ethical Hacker):** Active training focusing on core attack vectors, footprinting, and scanning methodologies.
-- **CPENT (Certified Penetration Testing Professional):** Advanced practical pentesting in enterprise network environments, pivoting, and double-pivoting scenarios.
-- **CHFI & SOC Training:** Deep dive into Computer Hacking Forensic Investigation techniques and Security Operations Center analyst workflows (SIEM monitoring, threat hunting).
+- **CEH (Certified Ethical Hacker):** **80% Completed** — Target examination in 2–3 months focusing on core attack vectors, footprinting, scanning methodologies, and practical exploitation.
+- **CPENT (Certified Penetration Testing Professional):** Enterprise-scale pentesting environments, network pivoting, and escaping restricted environments.
+- **Cyber Forensics Pipeline:** Expanding into forensic data recovery, artifact acquisition, and digital forensics triage.
 
 ---
 
 ## 🧰 Technical Skill Set
 
-- **Offensive Security:** Vulnerability assessment, network penetration testing, credential harvesting vectors, and security controls auditing.
-- **Networking & Infrastructure:** Layer 2/Layer 3 protocols, VLAN segmentation, ACL management, and secure network topology design.
-- **AI & Automation:** 
-  - Local LLM Deployment & Quantization (14B-32B parameters on local hardware)
-  - Defensive script automation with Python, Streamlit frameworks, and Claude Code integrations
-- **Development & Scripting:** Python (Data Analysis & Automation), Bash Scripting, JavaScript, C++
-- **Operating Systems:** Arch Linux, Kali Linux, Linux Toolchains, Windows Terminal
+- **Defensive & SOC Operations:** SIEM Alert Monitoring, Incident Response, Log Analysis, Security Information & Event Management, Threat Hunting Frameworks.
+- **Offensive Security:** Vulnerability Assessment & Penetration Testing (VAPT), Network Footprinting, Port & Service Enumeration, Security Controls Auditing.
+- **Prompt Engineering & AI Tools:** Context Optimization, Prompt-Driven Software Synthesis (Vibe Coding), Claude Code CLI Workflows, Local LLM Integration (GGUF/quantized models).
+- **Networking & Infrastructure:** IPv4/IPv6 Subnetting, VLSM, VLAN Segmentation, Inter-VLAN Routing, ACLs, DHCP Snooping, NAT/PAT.
+- **Operating Systems & Environments:** Arch Linux (Daily Hardened Environment), Kali Linux, Windows Terminal, Bash Scripting.
 
 ---
 
-## 🔬 Key Engineering Projects
+## 🔬 Security-Focused Projects (Prompt-Synthesized)
 
 - 🛠️ **OpenEnv Project**
-  - Designed and built a modular workflow environment setup optimized for rapid local development and automated toolchains.
+  - Prompt-engineered a modular workflow and staging environment setup optimized for rapid local security testing and automated Linux toolchains.
 - 📦 **StreamVault Project**
-  - Engineered a custom recommendation engine utilizing text vectorization (`TF-IDF`), algorithmic data filtering via `scikit-learn` and `pandas`, and rendered with a unified `Streamlit` interface.
+  - Architected a secure recommendation engine utilizing text vectorization (`TF-IDF`), data filtering, and a clean local interface built using AI-assisted rapid prototyping.
+- ⚡ **SecOps Automation & Scripting Toolkit**
+  - Automated security assessment routines, terminal environment configurations, and network data parsing scripts built end-to-end via structured prompting workflows.
 
 ---
 
@@ -57,16 +59,16 @@
 
 ## 📫 Let's Connect
 
-- 💬 Open to collaborating on open-source offensive tools, local AI tooling, or CTF challenges.
-- 🤝 If you're building next-gen security automation or diving into low-level network exploitation, let's connect!
+- 💬 Open to collaborating on defensive tooling, offensive security labs, local AI SecOps integrations, or CTF challenges.
+- 🤝 If you're building next-gen security automation or prompt-driven tooling, let's connect!
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushpravinjamdhade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assaulter-x-9502b82aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AssaulterX001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.piyushjamdhade@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assaulter-x-9502b82aa) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Assaulterx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AssaulterX001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushpravinjamdhade) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.piyushjamdhade@gmail.com)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Assaulterx&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
